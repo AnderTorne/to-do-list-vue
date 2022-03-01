@@ -66,7 +66,7 @@ ul{
     border: none;
     background: var(--add-button);
     color: #272727;
-    background-image: url(add.png);
+    background-image: url(/add.png);
     background-size: 18px;
     background-position: center;
     background-repeat: no-repeat;
@@ -112,7 +112,7 @@ ul{
     height: 16px;
     border: 1px solid #272727;
     border-radius: 50%;
-    background-image: url(check.png);
+    background-image: url(/check.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 0;
@@ -157,7 +157,7 @@ ul{
     display: block;
     width: 16px;
     height: 16px;
-    background-image: url(trash.png);
+    background-image: url(/trash.png);
     background-repeat: no-repeat;
     background-size: 16px;
     background-position: center;
