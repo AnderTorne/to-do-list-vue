@@ -21,11 +21,13 @@ body{
     align-items: center;
     background-color: #cccccc;
     /* background-image: linear-gradient(red, yellow); */
-    background-image: 
+    /* background-image: 
     linear-gradient(62deg,rgba(7,86,160,0.97)13%,rgba(255,122,151,0.5)4%),
     linear-gradient(44deg,rgba(0,43,99,0.079)39%,rgba(242,140,143,0.5)18%),
     linear-gradient(118deg,rgba(84,202,242,0.031)40%,rgba(247,155,187,0.5)54%),
-    linear-gradient(58deg,rgba(90,90,237,0.161)83%,rgba(249,156,142,0.5)23%);
+    linear-gradient(58deg,rgba(90,90,237,0.161)83%,rgba(249,156,142,0.5)23%); */
+    background: rgb(2,0,36);
+    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(108,108,181,1) 49%, rgba(0,212,255,1) 100%);
     background-blend-mode: normal,lighten,multiply,hard-light;
     overflow: hidden;
 }
